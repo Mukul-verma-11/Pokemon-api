@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+learcimport React, { useEffect, useState } from "react";
 import "./card.css";
 import axios from "axios";
 
